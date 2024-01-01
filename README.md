@@ -1,4 +1,4 @@
-### 👋 Hi there, happy new year for all of us!
+### 👋 Hi there!
 
 <!--
 **Vinncz/Vinncz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
