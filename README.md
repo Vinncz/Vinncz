@@ -8,11 +8,12 @@ I'm vinn, currently interning at **Apple Developer Academy**.
 * 🎨 Able to design and then code splendid UI myself
 * 🎯 Will write shorter, more concise stuff, if I had more time
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinncz"/>
+
 
 ![contributions](contributions.svg)
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=vinncz"/>
 **Vinncz/Vinncz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
