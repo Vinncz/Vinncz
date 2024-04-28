@@ -7,6 +7,7 @@ I'm vinn, currently interning at **Apple Developer Academy**.
 * ✍ Currently building my very-own blog app; to which after its deployment, might pour my thoughts into
 * 🎨 Able to design and then code splendid UI myself
 * 🎯 Will write shorter, more concise stuff, if I had more time
+* 🫡 Commited to always learn (and commit) something, everyday
 
 
 
